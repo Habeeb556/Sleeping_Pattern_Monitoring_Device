@@ -1,6 +1,6 @@
 Sleeping_Pattern_Monitoring_Device [IOT Project]
 ^^^^^^^^^^^^^^^^^^^^^^^
-For this you will need,
+For this you will need:
 
 .. code:: shell
 
