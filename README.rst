@@ -1,4 +1,4 @@
-Sleeping_Pattern_Monitoring_Device [IOT Project]
+Sleeping_Pattern_Monitoring_Device [IoT Project]
 ^^^^^^^^^^^^^^^^^^^^^^^
 For this you will need:
 
