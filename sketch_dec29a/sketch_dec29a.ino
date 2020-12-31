@@ -43,10 +43,8 @@ light_sleep = (millis()/1000)-sleep_timer_end;
 //When sleep cycle starts after 30 seconds, we go to deep sleep.
   if (interrupt == 0){
     if (light_sleep >= 60){
-      if (interrupt_for_deep_sleep > 60){
-        if (light_sleep - interrupt_sleep_timer >= 10){
-          deep_sleep = light_sleep - interrupt_for_deep_sleep;
-        }
+      if (light_sleep - interrupt_sleep_timer >= 10){
+        deep_sleep = light_sleep - interrupt_for_deep_sleep;
       }
     }
   }
