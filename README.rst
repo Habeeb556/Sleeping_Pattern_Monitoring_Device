@@ -1,5 +1,9 @@
 Sleeping_Pattern_Monitoring_Device [IoT Project]
 ^^^^^^^^^^^^^^^^^^^^^^^
+Iot device that monitors sleep pattern to help people keep tracking of their sleep via mobile application to improve it and by result improve their daily life activities.
+
+- Project Presentation Video: https://drive.google.com/file/d/1hiucrLobfkUSNfDyiqWBBR_aMiLr9veS/view?usp=sharing
+
 For this you will need:
 
 .. code:: shell
