@@ -18,3 +18,5 @@ Download library for MPU6050 accelerometer `MPU6050_tockn <https://roboticadiy.c
 and Arduino Bluetooth Terminal from `Play Store <https://play.google.com/store/apps/details?id=com.frederikhauke.ArduTooth>`__
 
 **Team Members:** Ahmed Habeeb, Ahmed Turboo, Salem Mohamed, Abdallah Ragab, Salma Hesham
+
+**Under the supervision of:** Prof. A. S. Tolba, Faculty of Computer & Information Sciences - Mansoura University
