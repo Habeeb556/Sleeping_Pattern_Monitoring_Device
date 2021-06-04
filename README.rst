@@ -20,4 +20,3 @@ and Arduino Bluetooth Terminal from `Play Store <https://play.google.com/store/a
 **Team Members:** Ahmed Habeeb, Ahmed Turboo, Salem Mohamed, Abdallah Ragab, Salma Hesham
 
 **Under the supervision of:** Prof. A. S. Tolba, Faculty of Computer & Information Sciences - Mansoura University
-
